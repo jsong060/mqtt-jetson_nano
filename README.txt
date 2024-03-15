@@ -1,0 +1,1 @@
+go to http://www.emqx.io/online-mqtt-client#/recent_connections to test python publishing
